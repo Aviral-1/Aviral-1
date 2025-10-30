@@ -1,14 +1,9 @@
 name: Generate Snake Animation 🐍
 
 on:
-  # Runs every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-
-  # Run manually from the Actions tab
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
-
-  # Run on push to main branch
   push:
     branches:
       - main
@@ -19,22 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Generate snake animations
-      - name: Generate snake 🐍
+      - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange
 
-      # 3. Push the generated files to the 'output' branch
-      - name: Push generated snake files
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

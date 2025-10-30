@@ -109,7 +109,7 @@ I focus on writing clean, scalable, and efficient code with a deep understanding
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
