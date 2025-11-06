@@ -1,34 +1,77 @@
+# ===============================================
+# 🐍 GITHUB CONTRIBUTION SNAKE (Enhanced Version)
+# ===============================================
+
 name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:     # Manual trigger
   push:
     branches:
       - main
+      - master
 
 jobs:
   build:
-    name: Generate Snake
+    name: Generate Animated Snake
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      # -------------------------
+      # 1️⃣  Checkout Repository
+      # -------------------------
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake animation
+      # -------------------------
+      # 2️⃣  Generate Snake Files
+      # -------------------------
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Aviral-1
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files to output branch
+      # -------------------------
+      # 3️⃣  Move Files to Output
+      # -------------------------
+      - name: Move generated files
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake*.svg output/
+
+      # -------------------------
+      # 4️⃣  Upload to output branch
+      # -------------------------
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------
+      # 5️⃣  Fallback Protection
+      # -------------------------
+      - name: Create Fallback Snake (if failed)
+        if: failure()
+        run: |
+          mkdir -p output
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"><rect width="100%" height="100%" fill="#0d1117"/><text x="50%" y="50%" fill="#00FFF2" font-size="22" text-anchor="middle" alignment-baseline="middle">🐍 Snake animation temporarily unavailable</text></svg>' > output/fallback-snake.svg
+          echo "✅ Fallback snake created."
+
+      # -------------------------
+      # 6️⃣  Upload fallback too
+      # -------------------------
+      - name: Upload fallback SVG
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fallback-snake
+          path: output/fallback-snake.svg
