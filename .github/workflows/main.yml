@@ -1,107 +1,39 @@
-# ============================================================
-# ⚡ AVIRAL MISHRA — DYNAMIC CONTRIBUTION SNAKE (PREMIUM STYLE)
-# ============================================================
-# Features:
-# - Auto generates neon animated contribution snake every 6 hours
-# - Light + Dark variants
-# - Graceful fallback SVG (styled)
-# - Uploads to "output" branch
-# - Includes logging and error recovery
-# ============================================================
-
-name: 🐍 Generate Dynamic Snake Animation
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # ⏱ Every 6 hours
-  workflow_dispatch:         # 🧩 Manual trigger
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:        # Allow manual runs
   push:
     branches:
       - main
-      - master
 
 jobs:
   build:
-    name: ⚙️ Build Neon Snake Animation
     runs-on: ubuntu-latest
 
     steps:
-      # ----------------------------------------------------------
-      # 1️⃣ Checkout your repository
-      # ----------------------------------------------------------
-      - name: 🧩 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ----------------------------------------------------------
-      # 2️⃣ Generate Snake Animation
-      # ----------------------------------------------------------
-      - name: 🐍 Generate contribution snake SVGs
-        id: snake
-        uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Aviral-1
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # ----------------------------------------------------------
-      # 3️⃣ Add custom neon gradient styling
-      # ----------------------------------------------------------
-      - name: ✨ Enhance SVG visuals
-        run: |
-          mkdir -p output
-          for file in dist/*.svg; do
-            sed -i 's/<svg/<svg style="background:linear-gradient(135deg,#000000,#0d1117,#002b36);"/' "$file"
-            sed -i 's/fill="none"/fill="url(#grad1)"/' "$file"
-            echo "🌈 Enhanced $(basename $file)"
-          done
-          cp dist/github-contribution-grid-snake*.svg output/
-
-      # ----------------------------------------------------------
-      # 4️⃣ Upload snake files to "output" branch
-      # ----------------------------------------------------------
-      - name: 🚀 Deploy generated snake SVGs
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ----------------------------------------------------------
-      # 5️⃣ Create fallback file if generation fails
-      # ----------------------------------------------------------
-      - name: ⚠️ Create stylish fallback snake
+      - name: Copy fallback if generation fails
         if: failure()
-        run: |
-          mkdir -p output
-          cat > output/fallback-snake.svg <<'EOF'
-          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" style="background:linear-gradient(90deg,#0d1117,#001b29);">
-            <defs>
-              <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" style="stop-color:#00FFF2;stop-opacity:1" />
-                <stop offset="100%" style="stop-color:#00C6FF;stop-opacity:1" />
-              </linearGradient>
-            </defs>
-            <text x="50%" y="50%" fill="url(#grad)" font-size="22" text-anchor="middle" alignment-baseline="middle" font-family="Poppins, sans-serif">
-              🐍 Snake animation temporarily unavailable — will return soon 💫
-            </text>
-          </svg>
-          EOF
-          echo "✅ Stylish fallback created."
+        run: cp fallback-snake.svg dist/github-contribution-grid-snake.svg
 
-      # ----------------------------------------------------------
-      # 6️⃣ Upload fallback artifact for reference
-      # ----------------------------------------------------------
-      - name: 📦 Upload fallback artifact
-        if: always()
-        uses: actions/upload-artifact@v4
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          name: fallback-snake
-          path: output/fallback-snake.svg
-
-      # ----------------------------------------------------------
-      # 7️⃣ Log final completion status
-      # ----------------------------------------------------------
-      - name: 🧾 Log completion
-        run: echo "✅ Snake Animation Workflow completed successfully at $(date)"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

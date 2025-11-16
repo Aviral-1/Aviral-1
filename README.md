@@ -135,10 +135,9 @@ I focus on **modern UI/UX**, **high-performance backend systems**, and **cloud-n
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://github.com/Aviral-1/Aviral-1/blob/main/fallback-snake.svg" width="90%" style="border-radius:12px;box-shadow:0 0 20px #00FFF2;" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aviral-1/Aviral-1/main/fallback-snake.svg" width="90%" />
   </picture>
-  <br/>
-  <sub><i>Neon-coded contribution tracker powered by GitHub Actions ⚙️</i></sub>
 </p>
+s
 </details>
 
