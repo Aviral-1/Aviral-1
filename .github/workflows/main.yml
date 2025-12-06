@@ -1,39 +1,32 @@
-name: Generate Snake Animation 🐍
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:        # Allow manual runs
-  push:
-    branches:
-      - main
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# 📊 GitHub Stats
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Aviral-1&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Aviral-1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 
-      - name: Copy fallback if generation fails
-        if: failure()
-        run: cp fallback-snake.svg dist/github-contribution-grid-snake.svg
+# 🐍 Contribution Graph
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aviral-mishra-8ab0911b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aviralmishraforconnect@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF2&center=true&vCenter=true&width=600&lines=Learning+Every+Day.;Keep+Building.+Keep+Growing.;~+Aviral+Mishra" />
+</div>

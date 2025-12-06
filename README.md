@@ -12,7 +12,6 @@ Hi! I'm **Aviral**, a **Full Stack Developer (MERN)** who loves building clean U
 I'm still early in my journey — learning step by step — and building real-world projects to grow.
 
 ### 🎯 My Current Goals
-- 🚀 Learn **Python**
 - 🐳 Understand **Docker**
 - ☁️ Start with **Cloud + DevOps basics**
 - 🛠 Build scalable mini-projects to practice backend
@@ -57,32 +56,32 @@ My practice project for:
 
 ---
 
-# 📊 GitHub Stats
+# 🎯⚡ Mission Log (Gamer HUD)
 
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Aviral-1&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+┌──────────────────────────────────────────────┐
+│ MISSION LOG 🔥 │
+├──────────────────────────────────────────────┤
+│ 🎮 MAIN QUEST │
+│ → Become Full Stack + Cloud Ready │
+│ → Master MERN + Docker + DevOps + AWS │
+├──────────────────────────────────────────────┤
+│ 🧩 SIDE QUESTS │
+│ → Build 3 mini full-stack apps │
+│ → Improve UI/UX skills │
+│ → Practice GitHub commits daily │
+│ → Learn Linux fundamentals │
+├──────────────────────────────────────────────┤
+│ ⚡ CURRENT ACTIVE MISSIONS │
+│ ✓ Docker basics │
+│ ✓ Improve API structure │
+│ ○ Deploy first project on cloud │
+│ ○ Build CI/CD pipeline │
+├──────────────────────────────────────────────┤
+│ 🚀 NEXT UNLOCKABLE SKILLS │
+│ → AWS EC2 deployment │
+│ → Nginx reverse proxy │
+│ → GitHub Actions automation │
+│ → SSL + HTTPS setup │
+└──────────────────────────────────────────────┘
 
----
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aviral-mishra-8ab0911b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aviralmishraforconnect@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF2&center=true&vCenter=true&width=600&lines=Learning+Every+Day.;Keep+Building.+Keep+Growing.;~+Aviral+Mishra" />
-</div>
