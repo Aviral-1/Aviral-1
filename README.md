@@ -24,9 +24,7 @@ I’m continuously learning and evolving, especially around **Cloud & DevOps**.
 
 ---
 
-<!-- 🚀 AVIRAL MISHRA — LIVE GITHUB STATS -->
 
-<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I'm+Aviral+Mishra;Full+Stack+MERN+Developer;Learning+Cloud+%26+DevOps" />
 
