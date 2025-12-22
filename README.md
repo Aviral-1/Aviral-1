@@ -1,8 +1,8 @@
-<!-- ⚡ AVIRAL MISHRA — PREMIUM GITHUB PROFILE ⚡ -->
+<!-- 🚀 AVIRAL MISHRA — ENHANCED GITHUB PROFILE 🚀 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I'm+Aviral+Mishra;Full+Stack+MERN+Developer;Building+Modern+Web+Products;Learning+Cloud+%26+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There!+👋;I'm+Aviral+Mishra;Full+Stack+MERN+Developer;Building+Scalable+Web+Products;Cloud+%26+DevOps+Learner" />
 
 <br/>
 
@@ -15,56 +15,61 @@
 ## 👨‍💻 About Me
 
 I’m **Aviral Mishra**, a **Full Stack MERN Developer** passionate about  
-building **modern UIs**, **scalable backends**, and **real-world products**.
+building **modern user interfaces**, **robust backend systems**, and **production-ready applications**.
 
-I believe in **learning by building**, improving architecture, and  
-writing **clean, maintainable code** 🚀
+I believe in:
+- Clean architecture  
+- Learning by building  
+- Writing maintainable code  
+- Growing one project at a time 🚀  
 
-### 🎯 Current Focus
+---
+
+## 🎯 Current Focus
+
 - 🐳 Docker & containerization  
 - ☁️ Cloud & DevOps fundamentals  
-- 🧱 Backend architecture & APIs  
-- 📦 Production-ready MERN projects  
+- 🔐 Secure & scalable APIs  
+- 🧱 Backend architecture patterns  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Core Skills
+### 💻 Core Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,linux&theme=dark" />
 </p>
 
-### 🚀 Exploring Next
+### 🚀 DevOps & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,postgres&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
 
-### ⭐ Healvora — Health-Tech Platform *(Learning Project)*
+### ⭐ Healvora — Health-Tech Platform
 🔗 https://github.com/Aviral-1/healvora  
 
-- Clean UI with React & Tailwind  
-- RESTful APIs with Express  
-- Authentication & protected routes  
-- Scalable folder structure  
+- React + Tailwind UI  
+- Express REST APIs  
+- Authentication & role handling  
+- Scalable project structure  
 
 ---
 
 ### ⭐ DevConnect — Developer Social Platform
 🔗 https://github.com/Aviral-1/devconnect  
 
-- CRUD operations  
-- MongoDB relations  
+- CRUD & MongoDB relations  
 - Frontend ↔ Backend integration  
-- Real-world API handling  
+- Real-world API patterns  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aviral-1&theme=radical&no-frame=true&row=1&margin-w=15" />
@@ -88,7 +93,7 @@ writing **clean, maintainable code** 🚀
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&hide_border=true" />
@@ -96,17 +101,29 @@ writing **clean, maintainable code** 🚀
 
 ---
 
+## ✨ Fun Flair
+
+<p align="center" style="margin-top: -10px;">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" alt="code animation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7aD4CZTqKUI7VBl6/giphy.gif" width="50" alt="rocket animation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" alt="sparkle animation" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Aviral-1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Aviral-1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -114,6 +131,6 @@ writing **clean, maintainable code** 🚀
 
 <div align="center">
 
-### ⚡ *“Code. Build. Break. Learn. Repeat.”*
+### ⚡ *“Build. Code. Learn. Repeat.”*
 
 </div>
