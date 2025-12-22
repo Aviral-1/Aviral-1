@@ -1,4 +1,4 @@
-<!-- 🚀 AVIRAL MISHRA — ENHANCED GITHUB PROFILE 🚀 -->
+<!-- 🚀 AVIRAL MISHRA — PREMIUM GITHUB PROFILE 🚀 -->
 
 <div align="center">
 
@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me
 
-I’m **Aviral Mishra**, a **Full Stack MERN Developer** passionate about  
-building **modern user interfaces**, **robust backend systems**, and **production-ready applications**.
+I’m **Aviral Mishra**, a **Full Stack MERN Developer** focused on building  
+**modern user interfaces**, **robust backend systems**, and **production-ready applications**.
 
 I believe in:
 - Clean architecture  
@@ -69,7 +69,63 @@ I believe in:
 
 ---
 
-## 🏆 Achievements & Trophies
+## 📊 My GitHub Activity & Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
+
+<!-- Total Stats Card -->
+<div style="background: rgba(0, 255, 255, 0.1); border-radius: 15px; padding: 1rem 2rem; width: 280px; box-shadow: 0 8px 16px rgba(0, 255, 255, 0.2);">
+  <h3 style="color:#00ffff; text-align:center;">🚀 Total Contributions</h3>
+  <p style="font-size: 2.2rem; text-align:center; font-weight: 700; margin: 0.5rem 0;">
+    <img src="https://img.icons8.com/ios-filled/30/00ffff/commit.png" alt="Commits" style="vertical-align: middle;"/>
+    4,500+ Commits
+  </p>
+  <p style="font-size: 1.5rem; text-align:center; margin: 0.5rem 0;">
+    <img src="https://img.icons8.com/ios-filled/30/00ffff/pull-request.png" alt="PRs" style="vertical-align: middle;"/>
+    300+ Pull Requests
+  </p>
+  <p style="font-size: 1.5rem; text-align:center; margin: 0.5rem 0;">
+    <img src="https://img.icons8.com/ios-filled/30/00ffff/issue.png" alt="Issues" style="vertical-align: middle;"/>
+    100+ Issues Opened
+  </p>
+</div>
+
+<!-- Contribution Graph Card -->
+<div style="background: rgba(0, 255, 255, 0.1); border-radius: 15px; padding: 1rem; width: 680px; box-shadow: 0 8px 16px rgba(0, 255, 255, 0.2);">
+  <h3 style="color:#00ffff; text-align:center;">📈 Contributions (Past Year)</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" style="width: 100%; border-radius: 15px;" />
+</div>
+
+<!-- Language Usage Card -->
+<div style="background: rgba(0, 255, 255, 0.1); border-radius: 15px; padding: 1rem 2rem; width: 280px; box-shadow: 0 8px 16px rgba(0, 255, 255, 0.2);">
+  <h3 style="color:#00ffff; text-align:center;">🛠️ Top Languages</h3>
+  
+  <p><strong>JavaScript</strong></p>
+  <div style="background:#111; border-radius: 10px; overflow:hidden; margin-bottom: 8px;">
+    <div style="width: 65%; background: #f7df1e; height: 12px;"></div>
+  </div>
+
+  <p><strong>TypeScript</strong></p>
+  <div style="background:#111; border-radius: 10px; overflow:hidden; margin-bottom: 8px;">
+    <div style="width: 20%; background: #3178c6; height: 12px;"></div>
+  </div>
+
+  <p><strong>HTML</strong></p>
+  <div style="background:#111; border-radius: 10px; overflow:hidden; margin-bottom: 8px;">
+    <div style="width: 10%; background: #e34c26; height: 12px;"></div>
+  </div>
+
+  <p><strong>CSS</strong></p>
+  <div style="background:#111; border-radius: 10px; overflow:hidden; margin-bottom: 8px;">
+    <div style="width: 5%; background: #264de4; height: 12px;"></div>
+  </div>
+</div>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aviral-1&theme=radical&no-frame=true&row=1&margin-w=15" />
@@ -77,38 +133,10 @@ I believe in:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aviral-1&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-1&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## ✨ Fun Flair
-
-<p align="center" style="margin-top: -10px;">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" alt="code animation" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o7aD4CZTqKUI7VBl6/giphy.gif" width="50" alt="rocket animation" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" alt="sparkle animation" />
 </p>
 
 ---
@@ -117,13 +145,13 @@ I believe in:
 
 <p align="center">
   <a href="https://github.com/Aviral-1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -131,6 +159,6 @@ I believe in:
 
 <div align="center">
 
-### ⚡ *“Build. Code. Learn. Repeat.”*
+### ⚡ *“Build things. Break things. Learn faster.”*
 
 </div>
