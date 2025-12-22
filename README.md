@@ -24,56 +24,32 @@ I’m continuously learning and evolving, especially around **Cloud & DevOps**.
 
 ---
 
-## 📊 My GitHub Stats & Activity
+<!-- 🚀 AVIRAL MISHRA — LIVE GITHUB STATS -->
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin: 2rem 0;">
+<div align="center">
 
-<!-- Contributions Summary Card -->
-<div style="
-  background: rgba(0, 255, 255, 0.12);
-  backdrop-filter: blur(15px);
-  border-radius: 20px;
-  box-shadow: 0 10px 40px rgba(0, 255, 255, 0.25);
-  padding: 2rem 3rem;
-  width: 320px;
-  color: #00ffff;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;
-">
-  <h2 style="margin-bottom: 1rem;">🚀 Total Contributions</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I'm+Aviral+Mishra;Full+Stack+MERN+Developer;Learning+Cloud+%26+DevOps" />
 
-  <p style="font-size: 2.8rem; font-weight: 700; margin: 0.5rem 0;">
-    <img src="https://img.icons8.com/ios-filled/36/00ffff/commit.png" alt="Commits" style="vertical-align: middle; margin-right: 0.6rem;" />
-    4,500+
-  </p>
-  <p style="font-size: 1.2rem; margin-top: -0.5rem;">Commits</p>
+<br />
 
-  <p style="font-size: 2.4rem; font-weight: 700; margin: 1.5rem 0 0.5rem;">
-    <img src="https://img.icons8.com/ios-filled/36/00ffff/pull-request.png" alt="Pull Requests" style="vertical-align: middle; margin-right: 0.6rem;" />
-    300+
-  </p>
-  <p style="font-size: 1.2rem; margin-top: -0.5rem;">Pull Requests</p>
+<!-- Dynamic GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="460" />
 
-  <p style="font-size: 2.4rem; font-weight: 700; margin: 1.5rem 0 0.5rem;">
-    <img src="https://img.icons8.com/ios-filled/36/00ffff/issue.png" alt="Issues" style="vertical-align: middle; margin-right: 0.6rem;" />
-    100+
-  </p>
-  <p style="font-size: 1.2rem; margin-top: -0.5rem;">Issues Opened</p>
-</div>
+<br /><br />
 
-<!-- Contribution Graph Card -->
-<div style="
-  background: rgba(0, 255, 255, 0.12);
-  backdrop-filter: blur(15px);
-  border-radius: 20px;
-  box-shadow: 0 10px 40px rgba(0, 255, 255, 0.25);
-  padding: 1rem;
-  width: 640px;
-">
-  <h2 style="color: #00ffff; text-align: center; margin-bottom: 1rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    📈 Contributions (Last Year)
-  </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" style="width: 100%; border-radius: 20px;" />
+<!-- Dynamic Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-1&theme=radical" alt="GitHub Streak" width="460" />
+
+<br /><br />
+
+<!-- Dynamic Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" width="900" />
+
+<br /><br />
+
+<!-- Dynamic Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-1&layout=compact&theme=radical" alt="Top Languages" width="460" />
+
 </div>
 
 <!-- Language Usage Card -->
