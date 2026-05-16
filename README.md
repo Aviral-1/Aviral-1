@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!-- 🚀 AVIRAL MISHRA — NEXT GEN README -->
+<!-- 🚀 AVIRAL MISHRA — NEXT GEN DEVELOPER README -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -29,23 +29,31 @@
 <div align="center">
 
 <table>
-<tr>
+<tr border="none">
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-# 👨‍💻 Aviral Mishra
+## 👨‍💻 Aviral Mishra
 
-### 🚀 Full Stack Engineer • SaaS Developer • DevOps Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=Full+Stack+Engineer;SaaS+Architect;Frontend+Specialist;Backend+Developer;DevOps+Enthusiast"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Node.js-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Frontend-React%20•%20Next.js-00F7FF?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-FF00FF?style=for-the-badge&labelColor=0D1117"/>
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Backend-NestJS%20•%20Node.js-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20•%20Docker-FF00FF?style=for-the-badge&labelColor=0D1117"/>
+
+</p>
+
+<br/>
 
 ```yaml
 name: Aviral Mishra
@@ -55,71 +63,76 @@ role: Full Stack Engineer
 location: India 🇮🇳
 
 specialization:
-  - Modern SaaS Platforms
+  - Scalable SaaS Platforms
   - Frontend Architecture
   - Backend Engineering
-  - DevOps & Automation
-  - Performance Optimization
+  - DevOps Automation
+  - Production Optimization
 
-tech_stack:
-  frontend:
-    - React.js
-    - Next.js
-    - TypeScript
-    - Tailwind CSS
-    - Framer Motion
+frontend:
+  - React.js
+  - Next.js
+  - TypeScript
+  - Tailwind CSS
+  - Redux
+  - Framer Motion
 
-  backend:
-    - Node.js
-    - NestJS
-    - Express.js
-    - PostgreSQL
-    - MongoDB
+backend:
+  - Node.js
+  - NestJS
+  - Express.js
+  - PostgreSQL
+  - MongoDB
+  - Prisma ORM
 
-  devops:
-    - Docker
-    - AWS
-    - GitHub Actions
-    - CI/CD Pipelines
-    - Linux Servers
+devops:
+  - Docker
+  - AWS
+  - CI/CD
+  - GitHub Actions
+  - Linux
 
 currently_learning:
-  - System Design
   - Kubernetes
   - AI Integrations
   - Cloud Architecture
+  - System Design
 
 focus:
-  - Scalable SaaS Products
-  - Clean UI/UX
-  - Performance Driven Apps
-  - Production Optimization
+  - Modern SaaS Products
+  - UI/UX Engineering
+  - Scalable Systems
+  - Production Applications
 
 motto:
-  "Code • Build • Deploy • Scale"
+  "Code • Build • Scale • Repeat"
 ```
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" align="center">
 
 <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F7FF?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CURRENTLY-Building%20Scalable%20Apps-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CURRENTLY-Building%20SaaS%20Apps-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-FF00FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LEARNING-Kubernetes%20%26%20Cloud-FF00FF?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GOAL-Build%20Impactful%20Products-00C896?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GOAL-Impactful%20Products-00C896?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </td>
 
@@ -145,10 +158,9 @@ motto:
 <div align="center">
 
 <table>
-
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
@@ -160,11 +172,12 @@ motto:
 + Framer Motion
 + SaaS Dashboards
 + High Performance UI
++ Pixel Perfect Interfaces
 ```
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres"/>
 
@@ -176,11 +189,12 @@ motto:
 - Database Design
 - PostgreSQL
 - Scalable Systems
+- Production APIs
 ```
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=docker,aws,githubactions"/>
 
@@ -193,12 +207,12 @@ CI/CD
 Automation
 Monitoring
 Linux
+Deployments
 ```
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -217,6 +231,8 @@ Linux
 | Problem Solving | Production Issue Resolution |
 | UI/UX Design | Modern Product Interfaces |
 | Performance | Speed & Scalability |
+| Architecture | SaaS & Cloud Systems |
+| Leadership | Team Collaboration |
 
 </div>
 
@@ -422,6 +438,6 @@ AWS --> Monitoring[Logs & Monitoring]
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0F2027,20:203A43,40:2C5364,60:00F7FF,80:8A2BE2,100:FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,20:203A43,40:2C5364,60:00F7FF,80:8A2BE2,100:FF00FF"/>
 
 </div>
