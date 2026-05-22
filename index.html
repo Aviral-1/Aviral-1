@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary SEO Meta Tags -->
+  <title>Aviral Mishra | 3D Cybernetic Full Stack View v5.0</title>
+  <meta name="description" content="Step into the immersive 3D digital cockpit of Aviral Mishra, SaaS Architect and Full Stack Engineer. Experience 3D stack layering, virtual terminals, neural chatbot twins, and lofi coding mode.">
+  <meta name="keywords" content="Aviral Mishra, Full Stack, SaaS Architect, 3D Portfolio, Next.js, DevOps, Docker, AWS, NestJS, TypeScript, Cyberpunk Portfolio">
+  
+  <!-- FontAwesome Icons & Stylesheet Mounts -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Interactive 3D Starfield & Matrix Grid Canvas -->
+  <canvas id="space-canvas"></canvas>
+  <div class="grid-overlay"></div>
+
+  <!-- Cybernetic Header Grid -->
+  <header>
+    <div class="logo-block">
+      <div class="logo-glow">AM</div>
+      <div class="logo-text">
+        <h1>AVIRAL MISHRA</h1>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: hsl(var(--neon-cyan) / 0.8); letter-spacing: 1px;">SYSTEM CONTROLS v5.0.0</div>
+      </div>
+    </div>
+    
+    <div class="system-status">
+      <div class="status-indicator">
+        <div class="status-dot"></div>
+        <span>CORE STATE: ONLINE</span>
+      </div>
+      <div class="status-indicator">
+        <span>SECURITY: NOMINAL</span>
+      </div>
+      <div class="audio-widget">
+        <button class="btn-cyber" id="btn-sound">🔇 SOUND MUTED</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Interactive Dashboard Console Grid -->
+  <main class="dashboard-grid">
+    
+    <!-- LEFT PANEL: 3D Stack Room -->
+    <section class="stack-room cyber-card">
+      <div class="layer-header" style="border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 10px; margin-bottom: 15px;">
+        <span class="layer-icon" style="color: hsl(var(--neon-cyan));"><i class="fas fa-cubes-3d"></i></span>
+        <span class="layer-title">3D STACK ACCELERATOR</span>
+      </div>
+      
+      <div class="stack-container" id="stack-container">
+        <!-- Exploded layout by default for jaw-dropping visual entry -->
+        <div class="stack-tower exploded" id="stack-tower">
+          
+          <!-- Frontend Plate -->
+          <div class="stack-layer" data-id="1">
+            <div class="layer-header">
+              <span class="layer-icon"><i class="fab fa-react"></i></span>
+              <span class="layer-title">FRONTEND SYSTEM</span>
+            </div>
+            <div class="layer-skills">
+              <span class="skill-tag">Next.js</span>
+              <span class="skill-tag">React</span>
+              <span class="skill-tag">TS</span>
+              <span class="skill-tag">Tailwind</span>
+            </div>
+          </div>
+          
+          <!-- Backend Plate -->
+          <div class="stack-layer" data-id="2">
+            <div class="layer-header">
+              <span class="layer-icon"><i class="fab fa-node-js"></i></span>
+              <span class="layer-title">BACKEND INFRA</span>
+            </div>
+            <div class="layer-skills">
+              <span class="skill-tag">NestJS</span>
+              <span class="skill-tag">Node</span>
+              <span class="skill-tag">REST</span>
+              <span class="skill-tag">GraphQL</span>
+            </div>
+          </div>
+          
+          <!-- Databases Plate -->
+          <div class="stack-layer" data-id="3">
+            <div class="layer-header">
+              <span class="layer-icon"><i class="fas fa-database"></i></span>
+              <span class="layer-title">DATA LAYER</span>
+            </div>
+            <div class="layer-skills">
+              <span class="skill-tag">PostgreSQL</span>
+              <span class="skill-tag">MongoDB</span>
+              <span class="skill-tag">Redis</span>
+              <span class="skill-tag">Prisma</span>
+            </div>
+          </div>
+          
+          <!-- DevOps Plate -->
+          <div class="stack-layer" data-id="4">
+            <div class="layer-header">
+              <span class="layer-icon"><i class="fab fa-aws"></i></span>
+              <span class="layer-title">DEVOPS & CLOUD</span>
+            </div>
+            <div class="layer-skills">
+              <span class="skill-tag">AWS</span>
+              <span class="skill-tag">Docker</span>
+              <span class="skill-tag">K8s</span>
+              <span class="skill-tag">Terraform</span>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+      <div class="rotate-helper">
+        <i class="fas fa-arrows-spin"></i>
+        <span>DRAG TO ROTATE 3D TOWER | CLICK PLATES TO INSPECT SPECIFICATIONS</span>
+      </div>
+    </section>
+
+    <!-- CENTER PANEL: CRT Console & Readouts -->
+    <section class="center-room">
+      
+      <!-- Simulated Virtual Terminal -->
+      <div class="crt-terminal">
+        <div class="terminal-header">
+          <div class="terminal-dots">
+            <div class="terminal-dot"></div>
+            <div class="terminal-dot"></div>
+            <div class="terminal-dot"></div>
+          </div>
+          <span>aviral@dev-os:~ (interactive)</span>
+          <span style="color: hsl(var(--neon-purple));"><i class="fas fa-terminal"></i></span>
+        </div>
+        
+        <div class="terminal-body">
+          <!-- Dynamically populated via app.js -->
+        </div>
+        
+        <div class="quick-commands">
+          <button class="quick-cmd-btn" data-cmd="neofetch"><i class="fas fa-info-circle"></i> /neofetch</button>
+          <button class="quick-cmd-btn" data-cmd="deploy"><i class="fas fa-rocket"></i> /deploy --prod</button>
+          <button class="quick-cmd-btn" data-cmd="matrix"><i class="fas fa-code"></i> /matrix-rain</button>
+          <button class="quick-cmd-btn" data-cmd="clear"><i class="fas fa-trash-can"></i> /clear</button>
+        </div>
+      </div>
+      
+      <!-- Dynamic detailed gauges (Updates dynamically on layer clicks) -->
+      <div class="detail-panel cyber-card">
+        <div class="detail-header">
+          <span>⚡ GLOBAL SYSTEM PERFORMANCE</span>
+        </div>
+        <div class="detail-content">
+          <!-- Dynamically rendered visualizer -->
+        </div>
+      </div>
+      
+    </section>
+
+    <!-- RIGHT PANEL: AI Twin Chatbot & Cassette Deck -->
+    <section class="right-room">
+      
+      <!-- NLP Digital Twin Chatbot -->
+      <div class="ai-agent-panel cyber-card">
+        <div class="ai-status-header">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="font-size: 18px; color: hsl(var(--neon-magenta));"><i class="fas fa-brain-circuit"></i></span>
+            <span class="layer-title">NEURAL CONNECT TWIN</span>
+          </div>
+          <span style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: hsl(var(--neon-magenta));">MODEL: GPT-4o</span>
+        </div>
+        
+        <div class="ai-chat-area">
+          <div class="ai-bubble assistant">
+            Hi! I am Aviral's digital twin chatbot. Ask me anything about his skills, projects, background, or how to hire him!
+          </div>
+        </div>
+        
+        <div class="ai-input-wrapper">
+          <input type="text" id="ai-input" placeholder="Type prompt (e.g. skills, projects, contact)..." autocomplete="off">
+          <button class="btn-send" id="btn-send"><i class="fas fa-arrow-right"></i></button>
+        </div>
+      </div>
+      
+      <!-- Tape Deck Lofi Visualizer -->
+      <div class="tape-visualizer cyber-card">
+        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+          <span style="font-size: 16px; color: hsl(var(--neon-magenta));"><i class="fas fa-tape"></i></span>
+          <span class="layer-title">LOFI CODING AUDIO Visualizer</span>
+        </div>
+        
+        <div class="cassette-deck">
+          <div class="cassette-shape">
+            <div class="cassette-wheel" id="wheel-left"></div>
+            <div style="width: 35px; height: 12px; border: 1.5px solid #282f4e; border-radius: 2px;"></div>
+            <div class="cassette-wheel" id="wheel-right"></div>
+          </div>
+        </div>
+        
+        <canvas class="music-eq-canvas" id="music-eq-canvas"></canvas>
+        
+        <div class="track-display">
+          <span class="track-title">SYSTEM STANDBY</span>
+          <button class="btn-cyber" id="btn-music-play" style="padding: 4px 10px; font-size: 10px;">
+            <i class="fas fa-play"></i> PLAY SYSTEM BEATS
+          </button>
+        </div>
+      </div>
+      
+    </section>
+    
+  </main>
+
+  <!-- System Footer -->
+  <footer>
+    <div class="footer-left">
+      <span>GRID NET: CONNECTED</span>
+      <span>PING: 14ms</span>
+      <span>SPEED: 50,000 req/day</span>
+    </div>
+    <div class="footer-right">
+      <span>© 2026 AVIRAL.DEV • CODING MODE</span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
