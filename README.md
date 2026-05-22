@@ -1,42 +1,51 @@
-# 🌌 AVIRAL OS — FULL STACK ENGINEERING SYSTEM
+]<!-- ========================================= -->
+<!-- 🌌 AVIRAL OS — FUTURISTIC DEV README -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0D1117,20:111827,40:1E293B,60:00F7FF,80:8A2BE2,100:FF00FF&text=AVIRAL%20OS&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20ENGINEERING%20CONTROL%20CENTER%20⚡&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0F172A,50:00F7FF,75:8A2BE2,100:FF00FF&text=AVIRAL%20OS&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20ENGINEERING%20SYSTEM%20⚡&descAlignY=60&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=⚡+Building+Scalable+SaaS+Ecosystems;🚀+Frontend+•+Backend+•+Cloud+Engineering;☁️+Next.js+•+NestJS+•+AWS+•+Docker;🧠+AI+Integrations+•+Automation+Systems;🔥+Designing+Modern+Digital+Infrastructure"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Building+Scalable+SaaS+Systems;🚀+Next.js+•+NestJS+•+Cloud+Engineering;🧠+AI+Integrations+•+Automation+Systems;☁️+DevOps+•+Infrastructure+•+Performance;🔥+Modern+Full+Stack+Experiences"/>
 
 <br/><br/>
 
+<a href="https://github.com/Aviral-1">
 <img src="https://img.shields.io/github/followers/Aviral-1?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00F7FF"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=Aviral-1&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2"/>
+
 <img src="https://img.shields.io/github/stars/Aviral-1?style=for-the-badge&label=TOTAL+STARS&labelColor=0D1117&color=FF00FF"/>
 
 </div>
 
 ---
 
-# 🛰️ DIGITAL IDENTITY
+# 🌌 SYSTEM OVERVIEW
 
 <div align="center">
 
-```bash
-┌──────────────────────────────────────┐
-│ AVIRAL MISHRA                        │
-├──────────────────────────────────────┤
-│ ROLE      → Full Stack Engineer      │
-│ STACK     → MERN + Next.js           │
-│ CLOUD     → AWS + Docker             │
-│ AI        → Automation Systems       │
-│ FOCUS     → SaaS Architecture        │
-│ STATUS    → Building & Scaling       │
-│ LOCATION  → India 🇮🇳                │
-└──────────────────────────────────────┘
-```
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750121-84f3e8df-3f1f-4c53-9e4f-76f74b7d4f5d.gif"/>
 
 </div>
+
+<br/>
+
+```bash
+┌──────────────────────────────────────────────┐
+│ AVIRAL MISHRA                               │
+├──────────────────────────────────────────────┤
+│ ROLE        → Full Stack Engineer           │
+│ SPECIALITY  → SaaS Architecture             │
+│ STACK       → MERN + Next.js                │
+│ CLOUD       → AWS + Docker                  │
+│ AI SYSTEMS  → OpenAI Integrations           │
+│ STATUS      → BUILDING THE FUTURE           │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -44,108 +53,40 @@
 
 <div align="center">
 
-```bash
-STATUS            : ONLINE
-CURRENT_BUILD     : Smart SaaS Ecosystem
-RUNTIME           : Next.js + NestJS
-DEPLOYMENT        : Docker + AWS
-DATABASE_LAYER    : PostgreSQL + MongoDB
-AI_LAYER          : OpenAI Integrations
-ARCHITECTURE      : Scalable Cloud Systems
-UPTIME            : 99.9%
-MISSION           : Build • Scale • Optimize
-```
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,docker,aws,githubactions&theme=dark"/>
 
 </div>
 
----
+<br/>
 
-# 🌌 3D TECH ECOSYSTEM
+```yaml
+SYSTEM_STATUS:
+  Runtime: ONLINE
 
-<div align="center">
+CURRENT_BUILD:
+  - Smart SaaS ERP
+  - AI Workflow Systems
+  - Cloud Infrastructure
 
-<table>
-<tr>
-<td width="33%" valign="top">
+TECH_STACK:
+  Frontend:
+    - React.js
+    - Next.js
+    - TypeScript
+    - Tailwind CSS
 
-## ⚛️ FRONTEND LAYER
+  Backend:
+    - Node.js
+    - NestJS
+    - PostgreSQL
+    - MongoDB
 
-```txt
-Frontend System
-│
-├── React Ecosystem
-├── Next.js Architecture
-├── TypeScript Engine
-├── Tailwind UI Systems
-├── Framer Motion
-├── Redux State Layer
-└── Performance Optimization
+  Cloud:
+    - Docker
+    - AWS
+    - CI/CD
+    - Linux
 ```
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&theme=dark"/>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🚀 BACKEND CORE
-
-```txt
-Backend Infrastructure
-│
-├── NestJS APIs
-├── Node.js Runtime
-├── Authentication Systems
-├── PostgreSQL
-├── MongoDB
-├── Prisma ORM
-└── REST Architecture
-```
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,prisma&theme=dark"/>
-
-</td>
-
-<td width="33%" valign="top">
-
-## ☁️ CLOUD & DEVOPS
-
-```txt
-Cloud Operations
-│
-├── Docker Containers
-├── AWS Infrastructure
-├── CI/CD Pipelines
-├── GitHub Actions
-├── Linux Systems
-├── Monitoring
-└── Production Deployments
-```
-
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🧠 FULL STACK POWER LEVEL
-
-<div align="center">
-
-```txt
-Frontend Engineering   ██████████████░   95%
-Backend Systems        ████████████░░░   88%
-Cloud & DevOps         ██████████░░░░░   75%
-UI/UX Engineering      █████████████░░   90%
-System Architecture    ███████████░░░░   82%
-AI Integrations        █████████░░░░░░   70%
-```
-
-</div>
 
 ---
 
@@ -153,75 +94,135 @@ AI Integrations        █████████░░░░░░   70%
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&hide_border=true&area=true&custom_title=⚡%20ACTIVE%20ENGINEERING%20MATRIX"/>
+
+</div>
+
+<br/>
+
 ```txt
-[ ACTIVE PROJECTS ]
+[ CURRENT PROJECTS ]
 
 ◉ Smart Waste ERP Platform
 ◉ SaaS Dashboard Ecosystem
-◉ AI Workflow Automation
-◉ Cloud Native Infrastructure
+◉ AI Automation Systems
+◉ Cloud Native Applications
+◉ Production Scale APIs
 ◉ High Performance UI Systems
-◉ Production Ready APIs
 ```
-
-</div>
 
 ---
 
-# 🌐 AI ENGINEERING SYSTEM
+# 🌐 FULL STACK ECOSYSTEM
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## ⚛️ FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma&theme=dark"/>
+
+<br/><br/>
+
 ```txt
-AI INTEGRATIONS
-│
-├── OpenAI APIs
-├── AI Workflow Systems
-├── Automation Pipelines
-├── Smart SaaS Features
-├── AI Chat Systems
-└── Intelligent User Experiences
+Modern UI Systems
+Responsive Interfaces
+Motion Animations
+SaaS Dashboards
+Frontend Architecture
+Performance Optimization
 ```
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀 BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,prisma&theme=dark"/>
+
+<br/><br/>
+
+```txt
+REST APIs
+Authentication
+Scalable Systems
+Database Design
+Microservices
+Production APIs
+```
+
+</td>
+
+<td width="33%" align="center">
+
+## ☁️ DEVOPS
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,git&theme=dark"/>
+
+<br/><br/>
+
+```txt
+Docker Systems
+AWS Infrastructure
+CI/CD Pipelines
+Automation
+Monitoring
+Cloud Deployment
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛰️ CLOUD ARCHITECTURE
+# 🧠 AI ENGINEERING SYSTEM
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-6f13-4a7c-8f5c-0d8fd8dfc7f9.gif"/>
+
+</div>
+
+<br/>
+
+```txt
+AI SYSTEMS
+│
+├── OpenAI Integrations
+├── AI Workflow Pipelines
+├── Automation Systems
+├── Smart SaaS Features
+├── AI Chat Platforms
+└── Intelligent User Experiences
+```
+
+---
+
+# ☁️ CLOUD ARCHITECTURE
 
 <div align="center">
 
 ```mermaid
 flowchart TD
 
-A[🌍 Users] --> B[⚡ Cloudflare CDN]
+A[🌍 Users] --> B[⚡ CDN Layer]
 B --> C[⚛️ Next.js Frontend]
 C --> D[🚀 API Gateway]
 D --> E[🧠 NestJS Services]
 E --> F[(🛢️ PostgreSQL)]
 E --> G[(⚡ Redis Cache)]
-E --> H[(📦 Cloud Storage)]
-H --> I[☁️ AWS Infrastructure]
-I --> J[📈 Monitoring & Logs]
-```
-
-</div>
-
----
-
-# ⚡ DEVOPS PIPELINE
-
-<div align="center">
-
-```mermaid
-flowchart LR
-
-A[💻 Development] --> B[📦 Git Push]
-B --> C[⚙️ GitHub Actions]
-C --> D[🐳 Docker Build]
-D --> E[☁️ AWS Deploy]
-E --> F[📈 Monitoring]
-F --> G[⚡ Optimization]
+E --> H[(☁️ Cloud Storage)]
+H --> I[🐳 Docker Infrastructure]
+I --> J[📈 Monitoring Systems]
 ```
 
 </div>
@@ -244,17 +245,7 @@ F --> G[⚡ Optimization]
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&theme=react-dark&hide_border=true&area=true&custom_title=⚡%20Aviral%20OS%20Contribution%20Matrix"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -264,7 +255,7 @@ F --> G[⚡ Optimization]
 
 ---
 
-# 🏆 ENGINEERING ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -274,17 +265,17 @@ F --> G[⚡ Optimization]
 
 ---
 
-# 🎧 CODING ENVIRONMENT
+# 🎧 LIVE TERMINAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%24+npm+run+dev;%24+docker-compose+up;%24+git+push+origin+main;%24+deploy+production;%24+monitor+logs;%24+scale+infrastructure+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%24+npm+run+dev;%24+docker-compose+up;%24+git+push+origin+main;%24+deploy+production;%24+optimize+performance+⚡"/>
 
 </div>
 
 ---
 
-# 🌐 CONNECT TERMINAL
+# 🌐 CONNECT SYSTEM
 
 <div align="center">
 
@@ -292,15 +283,15 @@ F --> G[⚡ Optimization]
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
@@ -312,10 +303,7 @@ F --> G[⚡ Optimization]
 
 <div align="center">
 
-```txt
-Building scalable SaaS ecosystems with modern frontend engineering,
-cloud infrastructure, and AI-powered systems.
-```
+### Building scalable SaaS ecosystems with modern frontend engineering, cloud infrastructure, and AI-powered systems.
 
 </div>
 
@@ -323,7 +311,7 @@ cloud infrastructure, and AI-powered systems.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,20:111827,40:1E293B,60:00F7FF,80:8A2BE2,100:FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,25:0F172A,50:00F7FF,75:8A2BE2,100:FF00FF"/>
 
 </div>
 
