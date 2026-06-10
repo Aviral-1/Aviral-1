@@ -1,243 +1,230 @@
-<!-- ============================================================ -->
-<!-- 🚀 AVIRAL MISHRA — CYBERNETIC DEV OBSERVABILITY GRID v6.0   -->
-<!-- ============================================================ -->
+# 🚀 AVIRAL MISHRA
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,30:121830,60:00F7FF,85:8A2BE2,100:FF00FF&text=AVIRAL%20MISHRA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Engineer%20•%20SaaS%20Architect%20•%20AI%20Systems%20Builder%20⚡&descAlignY=60&descSize=22&descColor=00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:020617,20:071426,40:0F172A,60:0EA5E9,80:38BDF8,100:7DD3FC&text=AVIRAL%20MISHRA&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React.js%20Developer%20%7C%20Full%20Stack%20Journey&descAlignY=60&descSize=20"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=⚡+SYSTEM+ONLINE+%7C+FULL+STACK+CORE+ACTIVE;🧠+AI+NEURAL+PIPELINES+%5BNOMINAL%5D;🚀+SAAS+ARCHITECT+%7C+CLOUD+ENGINEER;☁️+AWS+ECS+%7C+DOCKER+%7C+KUBERNETES+%5BDEPLOYED%5D;🔥+CODE+•+BUILD+•+SCALE+•+REPEAT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Smart+City+Platforms;Enterprise+Applications+at+Scale;GIS+%26+Analytics+Systems;Learning+DevOps+%26+Cloud;Always+Building+Something+New"/>
 
-<br/><br/>
+<br><br>
 
-[![LAUNCH PORTFOLIO](https://img.shields.io/badge/🚀%20LAUNCH-INTERACTIVE%20PORTFOLIO-00F7FF?style=for-the-badge&labelColor=050816&color=050816)](https://aviral-portfolio-pcym.vercel.app/)
-&nbsp;&nbsp;
-[![STATUS](https://img.shields.io/badge/STATUS-ONLINE%20%E2%9A%A1-8A2BE2?style=for-the-badge&labelColor=050816&color=050816)](https://aviral-portfolio-pcym.vercel.app/)
-&nbsp;&nbsp;
-[![GRID](https://img.shields.io/badge/GRID-OPERATIONAL-FF00FF?style=for-the-badge&labelColor=050816&color=050816)](https://aviral-portfolio-pcym.vercel.app/)
+### Software Engineer | React.js | Next.js | Node.js
+
+Building Smart City Platforms, Enterprise Applications & Analytics Dashboards
+
+<br>
+
+<a href="https://aviral-portfolio-pcym.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/aviral-mishra-8ab0911b2">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aviralmishraforconnect@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
+# 👨‍💻 About Me
+
+```yaml
+name: Aviral Mishra
+
+role: Software Engineer
+
+company: Dvertex Info Tech Pvt. Ltd.
+
+experience: Aug 2022 - Present
+
+specialization:
+  - Enterprise Applications
+  - Smart City Platforms
+  - GIS Dashboards
+  - Analytics Systems
+  - IoT Monitoring
+  - Municipal Management Solutions
+
+interests:
+  - Full Stack Development
+  - DevOps
+  - Cloud Infrastructure
+  - Monitoring Systems
+  - System Design
+```
+
+---
+
+# 💼 Currently
+
+🏢 Software Engineer @ Dvertex Info Tech Pvt. Ltd.
+
+📍 Greater Noida, India
+
+🗓️ Aug 2022 — Present
+
+Building Smart City Platforms, GIS Dashboards, Enterprise Applications, Analytics Systems and Municipal Management Solutions.
+
+---
+
+# 🚀 Tech Journey
+
+```text
+2022 ─────────────── Started Development Journey
+
+      HTML • CSS • JavaScript
+                │
+                ▼
+
+2023 ─────────────── Professional Development
+
+      React.js • REST APIs • GIS Systems
+                │
+                ▼
+
+2024 ─────────────── Software Engineer
+
+      Next.js • Enterprise Applications
+      Analytics • Smart City Platforms
+                │
+                ▼
+
+2025 ─────────────── Expanding Full Stack
+
+      Node.js • PostgreSQL • NestJS
+                │
+                ▼
+
+2026 ─────────────── DevOps & Cloud
+
+      Docker • AWS • Grafana
+      Prometheus • CI/CD
+```
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Analytics Grid
+### Frontend
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=8A2BE2&text_color=E6EDF3&bg_color=050816&ring_color=FF00FF&include_all_commits=true&count_private=true&custom_title=⚡+SYSTEM+METRICS" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aviral-1&theme=transparent&hide_border=true&ring=00F7FF&fire=FF00FF&currStreakLabel=8A2BE2&sideLabels=E6EDF3&dates=E6EDF3&background=050816&currStreakNum=00F7FF&sideNums=E6EDF3" width="49%"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
+
+<br><br>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" />
 
 </div>
 
 ---
 
+# 🎯 Current Focus
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - TypeScript
+
+Backend:
+  - Node.js
+  - Express.js
+  - NestJS
+
+Database:
+  - PostgreSQL
+  - MongoDB
+
+DevOps:
+  - Docker
+  - AWS
+  - CI/CD
+
+Monitoring:
+  - Grafana
+  - Prometheus
+```
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-## 📈 Language & Activity Radar
+<img src="https://github-readme-stats.vercel.app/api?username=Aviral-1&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-1&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=E6EDF3&bg_color=050816&langs_count=10&custom_title=⚡+LANGUAGE+MATRIX" width="40%"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aviral-1&theme=transparent&utcOffset=5.5" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aviral-1&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aviral-1&theme=transparent" width="30%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral-1&theme=transparent" width="30%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aviral-1&theme=transparent" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-1&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E2E8F0" width="40%"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Activity
+
 <div align="center">
 
-## 🐍 Contribution Constellation
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-1&bg_color=020617&color=38BDF8&line=38BDF8&point=7DD3FC&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Aviral-1/Aviral-1/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-<div align="center">
-
-## ⚡ Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,kubernetes&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=github,graphql,prisma,vercel,terraform,linux&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,jest,webpack,nginx&theme=dark&perline=6" />
-
-</div>
-
----
+# 🌐 Connect With Me
 
 <div align="center">
-
-## 🧠 System Architecture
-
-```mermaid
-graph TB
-    subgraph CLIENT["🌐 CLIENT PORTAL"]
-        A[Next.js App<br/>React + TypeScript]
-        B[Framer Motion<br/>3D Animations]
-    end
-
-    subgraph CDN["⚡ EDGE CDN"]
-        D[Vercel Edge Network]
-        E[AWS CloudFront]
-    end
-
-    subgraph API["🔮 API GATEWAY"]
-        F[NestJS REST + GraphQL]
-        G[WebSockets<br/>Real-time]
-    end
-
-    subgraph AI["🧠 AI NEURAL CORE"]
-        I[OpenAI GPT-4o]
-        J[LangChain Agent]
-        K[pgvector Memory]
-    end
-
-    subgraph DATA["🗄️ STORAGE MATRIX"]
-        L[(PostgreSQL)]
-        M[(MongoDB)]
-        N[(Redis)]
-    end
-
-    A --> D --> F --> I --> J --> K
-    F --> L
-    F --> N
-
-    style CLIENT fill:#050816,stroke:#00F7FF,color:#E6EDF3
-    style CDN fill:#050816,stroke:#8A2BE2,color:#E6EDF3
-    style API fill:#050816,stroke:#FF00FF,color:#E6EDF3
-    style AI fill:#050816,stroke:#00F7FF,color:#E6EDF3
-    style DATA fill:#050816,stroke:#8A2BE2,color:#E6EDF3
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 CI/CD Pipeline
-
-```mermaid
-flowchart LR
-    subgraph DEV["💻 DEV"]
-        A[Commit] --> B[TS Check] --> C[ESLint]
-    end
-    subgraph CI["⚙️ CI"]
-        D[GitHub Actions] --> E[SonarQube] --> F[Docker Build]
-    end
-    subgraph CD["☁️ CD"]
-        G[AWS ECR Push] --> H[ECS Blue/Green] --> I[✅ Live]
-    end
-    C --> D
-    F --> G
-
-    style DEV fill:#050816,stroke:#00F7FF,color:#E6EDF3
-    style CI fill:#050816,stroke:#8A2BE2,color:#E6EDF3
-    style CD fill:#050816,stroke:#FF00FF,color:#E6EDF3
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎧 Coding Soundtrack
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6m2g4j6xyz&cover_image=true&theme=novatorem&show_offline=true&background_color=050816&interchange=false"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Terminal Loop
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%24+npm+run+dev;%24+docker+build+.+-t+aviral%2Fsaas-engine;%24+git+push+origin+main;%24+kubectl+apply+-f+deployment.yaml;%24+aws+ecs+update-service+--force-new-deployment;%24+zero+downtime+%E2%9A%A1+active"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 😂 Dev Humour Node
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌠 Philosophy Core
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Engineering Ritual
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=Eat+🍜;Code+💻;Debug+🐛;Deploy+🚀;Scale+⚡;Repeat+🔥"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect Grid
-
-<a href="https://aviral-portfolio-pcym.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-aviral--portfolio--pcym.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=050816&color=050816"/>
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/Aviral-1">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/aviral-mishra-8ab0911b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:aviralmishraforconnect@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://aviral-portfolio-pcym.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
@@ -246,6 +233,13 @@ flowchart LR
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,30:121830,60:00F7FF,85:8A2BE2,100:FF00FF"/>
+### ⚡ Build • Learn • Improve • Repeat
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Aviral-1&style=for-the-badge&color=38BDF8"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,20:071426,40:0F172A,60:0EA5E9,80:38BDF8,100:7DD3FC"/>
+
